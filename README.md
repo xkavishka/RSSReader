@@ -16,11 +16,11 @@ If not,Asuming you are using linux,
 
 -pip install feedparser
 
-:)then you can clone the python file and replace the website link as you wish!!!
+#How to use?
 
-#How to use.
+You can clone the python file and Run python file.
 
-:)Simple.Run python code & paste the rss link you want.
+Then input/paste the website rss link as you wish!!!
 
 #Want to quit/exit?
 
