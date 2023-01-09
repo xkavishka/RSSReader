@@ -7,9 +7,13 @@ A simple RSS reader by python
 If not,Asuming you are using linux,
     
 -open terminal 
+
 -sudo apt update -y
+
 -sudo apt install python -y
+
 -sudo apt install pip -y
+
 -pip install feedparser
 
 :)then you can clone the python file and replace the website link as you wish!!!
