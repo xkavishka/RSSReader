@@ -4,7 +4,7 @@ A simple RSS reader by python
 
 :)You have to make sure,you installed python and feedparser to use this tool.
   
-If not,Asuming you are using linux,
+If not,Asuming you are using linux,(Non gui version)
     
 -open terminal 
 
